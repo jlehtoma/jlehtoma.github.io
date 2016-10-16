@@ -69,6 +69,29 @@ footer {
   border-radius:100%;
 }
 
+.front-image {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 15px;
+  width: 300px;
+}
+
+td {
+  vertical-align: top;
+  padding: 15px;
+  text-align: left;
+}
+
+div .content-section {
+  margin: 20px auto;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.larger {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 @media all and (max-width: 960px) {
   .blog-button {
 		width: 87%;
