@@ -1,2 +1,7 @@
 source 'https://rubygems.org'
 gem 'github-pages'
+gem 'jekyll'
+gem 'json'
+gem 'maruku'
+gem 'rake'
+gem 'cites', :git => 'https://github.com/sckott/cites.git'
