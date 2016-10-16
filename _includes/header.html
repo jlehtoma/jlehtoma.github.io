@@ -13,7 +13,18 @@
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
-        <p class="panel-cover__description">{{ site.description }}</p>
+        <p class="panel-cover__description">
+          Postdoc in conservation and land use science at VU University Amsterdam. <br />
+          Exploring space between science and policy. <br />
+          Interested in all things open.
+        </p>
+        {% if site.author.orcid_id %}
+          <br />
+          <!-- ORCID -->
+          <p>
+              ORCID ID: <a href="https://orcid.org/{{site.author.orcid_id}}">{{ site.author.orcid_id }}</a>
+          </p>
+        {% endif %}
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">

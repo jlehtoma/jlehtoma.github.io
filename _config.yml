@@ -1,6 +1,5 @@
 # Site settings
 title: Joona Lehtomäki
-description: 'Joona Lehtomäki'
 url: 'https://jehtoma.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -13,6 +12,7 @@ author:
   github_username:  jlehtoma
   linkedin_username:  jlehtoma
   researchgate_username: Joona_Lehtomaeki
+  orcid_id: 0000-0002-7891-0843
 
 defaults:
   -
