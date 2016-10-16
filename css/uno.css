@@ -1391,7 +1391,8 @@ nav {
 			opacity: 1; }
 
 .navigation--social {
-	margin-left: 1.5em; }
+	margin-left: 1.5em;
+	margin-top: 1.5em}
 	.navigation--social a {
 		padding: 6px 8px 6px 9px; }
 		.navigation--social a .label {
