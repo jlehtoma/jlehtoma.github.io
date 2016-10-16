@@ -1,7 +1,7 @@
 # Site settings
 title: Joona Lehtomäki
 description: 'Joona Lehtomäki'
-url: 'http://joshgerdes.com/jekyll-uno'
+url: 'https://jehtoma.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -24,8 +24,9 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 10
-permalink: /:year/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+#permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
