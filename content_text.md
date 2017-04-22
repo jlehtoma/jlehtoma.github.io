@@ -23,3 +23,4 @@ Open X
 + Openness in knowledge production processes (open science, open data, open government) 
 
   ​
+
