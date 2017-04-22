@@ -91,6 +91,10 @@ div .content-section {
   font-weight: bold;
 }
 
+div .site-info {
+    margin-top: 100px;
+}
+
 @media all and (max-width: 960px) {
   .blog-button {
 		width: 87%;
