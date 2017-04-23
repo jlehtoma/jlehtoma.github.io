@@ -95,6 +95,10 @@ div .site-info {
     margin-top: 100px;
 }
 
+.twitter-tweet {
+    margin: 2.2em auto !important;
+}
+
 @media all and (max-width: 960px) {
   .blog-button {
 		width: 87%;
