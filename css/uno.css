@@ -1218,6 +1218,10 @@ hr {
 	background: url(../images/background-cover.jpg) top left no-repeat #666666;
 	background-size: cover; }
 
+.panel-cover-title {
+    
+}
+
 .panel-cover--collapsed {
 	width: 40%;
 	max-width: 530px; }
