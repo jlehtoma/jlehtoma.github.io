@@ -3,6 +3,7 @@ title:  "Why I march(ed)"
 date:   2017-04-21 1:04:23
 categories: [blog]
 tags: [science-society]
+comments: true
 ---
 
 For a while now, I've been following the international [March of Science](https://www.marchforscience.com) movement with great interest. Not so much because I'm personally too worried about war on science, alternative facts gaining ground or post-truth times. Being interested in how science and policy-making interact, I've been more curious how [the core principle](https://www.marchforscience.com/mission-and-vision/) of "evidence-based policy and regulations in the public interest" and the goals of "partnering with the public" and "affirming science as a democratic value" might manifest themselves. Of course, I don't expect to actually see any convergence on these any time soon given how diverse the scientific community is, but participating on the march might provoke some further thinking. If nothing else, I'd get to make a sign! 

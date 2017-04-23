@@ -3,7 +3,7 @@ title: Joona Lehtomäki
 url: 'https://jehtoma.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'jlehtoma'
 
 author:
   name: 'Joona Lehtomäki'
