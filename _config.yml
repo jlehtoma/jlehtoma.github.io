@@ -2,7 +2,7 @@
 title: Joona Lehtomäki
 url: 'https://jehtoma.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-36431804-2'
 disqus_shortname: 'jlehtoma'
 
 author:
