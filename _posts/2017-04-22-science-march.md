@@ -11,7 +11,7 @@ For a while now, I've been following the international [March of Science](https:
 
 Since the birding trip out to Texel island was postponed for a week, I got a chance to join the [March of Science](https://marchforscience.nl/) in event that was organized here in Amsterdam [1]. Oh, and here's the sign I came up with, more on it a bit later: 
 
-![sign]({{ site.url }}/images/blog/2017-04-22-science-march/sign.jpg)
+![sign](/images/blog/2017-04-22-science-march/sign.jpg)
 
 
 
