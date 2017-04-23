@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';
+@import 'https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Roboto+Slab:300,400)';
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
@@ -925,8 +925,8 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
-	font-size: 1em;
+	font-family: "Noto Sans", sans-serif;
+	font-size: 1.1em;
 	color: #666666; }
 
 ::selection {
@@ -1100,7 +1100,7 @@ pre {
 .content-wrapper {
 	z-index: 800;
 	width: 60%;
-	max-width: 1000px;
+	max-width: 1200px;
 	margin-left: 40%; }
 
 .content-wrapper__inner {
@@ -1166,8 +1166,9 @@ hr {
 	box-shadow: none; }
 
 .post img {
+    display: block;
 	max-width: 100%;
-	margin: 0 auto;
+	margin: 30px auto;
 	border-radius: 3px;
 	text-align: center; }
 .post pre {
@@ -1192,7 +1193,7 @@ hr {
 
 .panel-title {
 	margin: 0 0 5px 0;
-	font-size: 2.5em;
+	font-size: 2em;
 	letter-spacing: 4px;
 	color: #FFF; }
 
@@ -1234,6 +1235,7 @@ hr {
 	margin-bottom: .2em; }
 
 .panel-cover__description {
+    font-size: 0.9em;
 	margin: 0 30px; }
 
 .panel-cover__divider {
