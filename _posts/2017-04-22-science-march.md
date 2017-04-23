@@ -23,7 +23,8 @@ Despite of countless policy studies and volumes of pages written about the topic
 
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/marchforscience?src=hash">#marchforscience</a> <a href="https://t.co/mLyTXUG3Sl">pic.twitter.com/mLyTXUG3Sl</a></p>— Lisa Hawke (@lisadmh2) <a href="https://twitter.com/lisadmh2/status/855820249203175425">April 22, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/marchforscience?src=hash">#marchforscience</a> <a href="https://t.co/mLyTXUG3Sl">pic.twitter.com/mLyTXUG3Sl</a></p>— Lisa Hawke (@lisadmh2) <a href="https://twitter.com/lisadmh2/status/855820249203175425">April 22, 2017</a></blockquote>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -119,11 +120,15 @@ In any case, it's clear that partnering with the public and affirming science as
 
 
 
-> The social contract between science and society must be constantly renewed, recognising the evolution in both the nature of science and the society in which it is embedded.  In short, society has a stake in what science is done, how it is done and how it is applied.  Concepts of knowledge co-production, co-design and extended peer review flow from such recognition and the science community will need to engage more with these emerging concepts and practices.
+> "The social contract between science and society must be constantly renewed, recognising the evolution in both the nature of science and the society in which it is embedded.  In short, society has a stake in what science is done, how it is done and how it is applied.  Concepts of knowledge co-production, co-design and extended peer review flow from such recognition and the science community will need to engage more with these emerging concepts and practices."
 
 
 
 That's why extended peer review made it to my sign.
+
+
+
+### So, why I marched?
 
 In the end, perhaps it's less about "the Truth" and more about power politics, including how are the winners and losers. It could also be that I'm just coming up with one straw man after another and most things I've discussed in this post are well-known in the scientific community. If not, I think it's important that these topics keep being discussed more broadly. That's why I went to the science march; not because there was much discussion about these issues, but because it at least gave me an opportunity for what I consider to be valuable self-reflection. Hopefully rougher seas for scientists also means that more scientists as well as other members of the civil society will start thinking about the role of science in our democratic societies. If the March of Science achieved to do that for some, I think it was worth the effort.
 
