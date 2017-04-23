@@ -21,6 +21,7 @@ defaults:
       type: 'posts'
     values:
         layout: 'post'
+        is_post: true
 
 # Build settings
 destination: _site

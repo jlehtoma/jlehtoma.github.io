@@ -1,9 +1,11 @@
 ---
 title:  "Why I march(ed)"
+layout: post
 date:   2017-04-21 1:04:23
 categories: [blog]
 tags: [science-society]
 comments: true
+description: "I've been following the international March of Science movement with great interest. In this post, I will explain in more detail why I chose to march with this sign."
 ---
 
 I've been following the international [March of Science](https://www.marchforscience.com) movement with great interest. Not so much because I'm overly worried about war on science, alternative facts gaining ground or post-truth times. I can see why these are burning issues right now especially in the US, but I think in Europe we're still mostly okay. I am interested, however, in how science and policy-making interact especially in environmental decision-making and so I've been more curious of how [the core principles](https://www.marchforscience.com/mission-and-vision/) of the Science March (most notably "evidence-based policy and regulations in the public interest") and the goals ("partnering with the public" and "affirming science as a democratic value") are framed and discussed either in the march events around the globe or in the discussions surrounding the events. 
