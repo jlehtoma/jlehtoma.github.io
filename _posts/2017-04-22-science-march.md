@@ -139,7 +139,7 @@ In the end, perhaps it's less about ["the Truth"](https://medium.com/@dropeik.co
 
 [1] There actually wasn't any marching, so science standing might be more apt.  
 
-[2] See pretty much anything from Dan Kahan and the Cultural Cognition project http://culturalcognition.squarespace.com/
+[2] See pretty much anything from Dan Kahan and [the Cultural Cognition project](http://culturalcognition.squarespace.com/) 
 
 [3] See e.g. Paul Cairney's book [The Politics of Evidence-Based Policy Making](https://paulcairney.wordpress.com/ebpm/).
 
