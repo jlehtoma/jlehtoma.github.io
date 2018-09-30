@@ -95,6 +95,14 @@ div .site-info {
     margin-top: 100px;
 }
 
+ul.whoami {
+    margin-top: 10px;
+}
+
+li.whoami {
+    padding: 10px 0 10px 0;
+}
+
 .twitter-tweet {
     margin: 2.2em auto !important;
 }
